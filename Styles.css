@@ -1,0 +1,79 @@
+header h1 {
+  font-size: 30px;
+  color: blue;
+  font-family: sans-serif;
+}
+
+header form {
+  margin-left: 1100px;
+}
+
+header nav {
+
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+nav a {
+  color: aquamarine;
+  display: inline;
+}
+
+h1 {
+  font-size: 30px;
+  color: brown;
+  margin-left: 35px;
+}
+
+h2 {
+  font-size: 20px;
+  color: cyan;
+
+}
+
+h3 {
+  color: indigo;
+}
+
+body p {
+  font-family: "roboto"
+
+}
+
+a {
+  color: gray;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: purple;
+}
+
+form {
+  display: block;
+}
+
+section {
+  padding-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 20px;
+  color: greenyellow;
+}
+
+input {
+  border-color: skyblue;
+  border: outset;
+}
+
+button {
+  color: blueviolet;
+  background-color: cadetblue;
+}
